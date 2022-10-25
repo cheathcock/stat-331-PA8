@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-author: "Fiona Norton, Camille Heathcock, Josh Rowe, Steven (?)"
+author: "Fiona Norton, Camille Heathcock, Josh Rowe, Stephen Wessel"
 format: html
 editor: visual
 ---
